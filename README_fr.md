@@ -1,12 +1,12 @@
 <p align="center"><b>🛠️ Ce référentiel a été créé en utilisant le <a href="https://gitupload.com">GitUpload</a>.</b></p>
-<p align="center"><a href="https://kupi.net"><img src="https://github.com/markolofsen/google_api_translate//blob/master/.banners/banner_fr.png?raw=1" /></a></p>
+<p align="center"><a href="https://gitupload.com"><img src="https://github.com/markolofsen/google_api_translate//blob/master/.banners/banner_fr.png?raw=1" /></a></p>
 <p align="center"><b>Languages:</b><br /><a href="https://github.com/markolofsen/google_api_translate/blob/master/README_de.md">🇩🇪 Deutsch</a> | <a href="https://github.com/markolofsen/google_api_translate/blob/master/README.md">🇬🇧 English</a> | <a href="https://github.com/markolofsen/google_api_translate/blob/master/README_es.md">🇪🇸 Spanish</a> | <b>🇫🇷 French</b> | <a href="https://github.com/markolofsen/google_api_translate/blob/master/README_it.md">🇮🇹 Italian</a> | <a href="https://github.com/markolofsen/google_api_translate/blob/master/README_ru.md">🇷🇺 Russian</a></p>
 
 ---
 
 # Bibliothèque enrichie pour la traduction de texte à partir de l&#39;API Google Translate (pour Python 3)!
 
-Version de la bibliothèque = 2.1.3 <br />
+Version de la bibliothèque = 2.1.4 <br />
 Nom de la bibliothèque = google_api_translate <br />
 Titre = Google Translate API (Python 3) <br />
 Mots-clés = Google Cloude API, google api translate free <br />
@@ -14,7 +14,7 @@ Mots-clés = Google Cloude API, google api translate free <br />
 ### Chaud à installer
 
 ```sh
-pip3 install google_api_translate==2.1.3
+pip3 install google_api_translate==2.1.4
 ```
 
 
