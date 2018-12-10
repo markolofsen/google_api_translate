@@ -6,7 +6,7 @@
 
 # Расширенная библиотека для перевода текста из Google Translate API (для Python 3)!
 
-Версия библиотеки = 2.1.1 <br />
+Версия библиотеки = 2.1.2 <br />
 Название библиотеки = google_api_translate <br />
 Название = Google Translate API (Python 3) <br />
 Ключевые слова = Google Cloude API <br />
@@ -14,7 +14,7 @@
 ### Горячая установка
 
 ```sh
-pip3 install google_api_translate==2.1.1
+pip3 install google_api_translate==2.1.2
 ```
 
 
