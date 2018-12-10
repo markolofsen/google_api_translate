@@ -6,15 +6,15 @@
 
 # Libreria arricchita per la traduzione di testo dall&#39;API di Google Traduttore (per Python 3)!
 
-Library version = 2.1.2 <br />
+Library version = 2.1.3 <br />
 Nome libreria = google_api_translate <br />
 Titolo = Google Translate API (Python 3) <br />
-Parole chiave = Google Cloude API <br />
+Parole chiave = Google Cloude API, google api translate free <br />
 
 ### Caldo da installare
 
 ```sh
-pip3 install google_api_translate==2.1.2
+pip3 install google_api_translate==2.1.3
 ```
 
 
@@ -60,12 +60,12 @@ import os
 from google_api_translate import Translator, TextUtils
 creds_path = os.path.join(os.path.dirname(__file__), 'creds.json')
 
-text = "Hi, this is [[name]], waiting for $ [[number]] from you!"
+text = "Hi, this is , waiting for $ [[number]] from you!"
 s = Translator(creds_path=creds_path).translate(text="Hello new world!", target_language='ru')
 print(s.text)
 ```
 
-Risultato: «Привет, это [[name]], жду от тебя $ [[number]]!»
+Risultato: «Привет, это , жду от тебя $ [[number]]!»
 
 ---
 

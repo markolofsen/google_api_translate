@@ -6,15 +6,15 @@
 
 # ¡Biblioteca enriquecida para traducir texto de la API de Google Translate (para Python 3)!
 
-Versión de la biblioteca = 2.1.2 <br />
+Versión de la biblioteca = 2.1.3 <br />
 Nombre de la biblioteca = google_api_translate <br />
 Título = Google Translate API (Python 3) <br />
-Palabras clave = Google Cloude API <br />
+Palabras clave = Google Cloude API, google api translate free <br />
 
 ### Caliente para instalar
 
 ```sh
-pip3 install google_api_translate==2.1.2
+pip3 install google_api_translate==2.1.3
 ```
 
 
